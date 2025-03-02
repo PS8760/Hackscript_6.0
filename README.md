@@ -152,7 +152,11 @@ Use a hybrid approach combining traditional and advanced models:
 #### Step 6: Make Predictions
 - Forecast prices for the next 1-2 weeks.
 - Provide confidence intervals for uncertainty estimation.
-
+#### Step 7: Interpret and Fine-Tune the Model  
+- Analyze residuals to check for patterns and model adequacy.  
+- Adjust parameters if necessary to improve performance.  
+- Compare ARIMA with other models (e.g., SARIMA, Prophet) for better accuracy.  
+- Document findings and potential improvements for future iterations.
 ---
 
 This document provides a comprehensive overview of our approach to building an AI-ML based model for agri-horticultural price prediction. 🚀
